@@ -1,6 +1,6 @@
 ## Loic Konan
 
-#### Repo: 	Discrete Structures & Analysis
+#### Repo: 	Data Structures and ADT
 
 #### Email: Loickonan.lk@gmail.com
 
