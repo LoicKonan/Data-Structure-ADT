@@ -4,8 +4,8 @@
 //						Data Structures: 09/20/2020							*
 //																			*
 //***************************************************************************
-//		The intent of this program is to compute �x� the root(s) of a		*
-//		quadratic equation using the quadratic formula.  �a� �b� and �c�	*
+//		The intent of this program is to compute �x� the root(s) of a	  *
+//		quadratic equation using the quadratic formula.  �a� �b� and �c *
 //		will be entered in by the user. We will only solve 3 equations,		*
 //		but this code is designed to accept larger problem sizes by			*
 //		accepting only one modification. This program content 6 different	*
